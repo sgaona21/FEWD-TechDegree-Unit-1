@@ -211,10 +211,16 @@ a.social:hover {
     background-color: #fff;
     border-radius: 10px;
     text-align: left;
+    border-bottom: 4px solid #ccc;
 
+}
+
+.experience:hover {
+  border-color: #ff99ff;
 }
 
 h2 {
   font-size: .98rem;
 
 }
+
